@@ -1,2 +1,2 @@
-# JakDelaZviratko
+# Ukoly PGA maturita
 Ukol
