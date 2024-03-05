@@ -1,0 +1,10 @@
+C:\Users\Maty\source\repos\Semafor\Semafor\bin\Debug\Semafor.exe.config
+C:\Users\Maty\source\repos\Semafor\Semafor\bin\Debug\Semafor.exe
+C:\Users\Maty\source\repos\Semafor\Semafor\bin\Debug\Semafor.pdb
+C:\Users\Maty\source\repos\Semafor\Semafor\obj\Debug\Semafor.csproj.AssemblyReference.cache
+C:\Users\Maty\source\repos\Semafor\Semafor\obj\Debug\Semafor.Form1.resources
+C:\Users\Maty\source\repos\Semafor\Semafor\obj\Debug\Semafor.Properties.Resources.resources
+C:\Users\Maty\source\repos\Semafor\Semafor\obj\Debug\Semafor.csproj.GenerateResource.cache
+C:\Users\Maty\source\repos\Semafor\Semafor\obj\Debug\Semafor.csproj.CoreCompileInputs.cache
+C:\Users\Maty\source\repos\Semafor\Semafor\obj\Debug\Semafor.exe
+C:\Users\Maty\source\repos\Semafor\Semafor\obj\Debug\Semafor.pdb

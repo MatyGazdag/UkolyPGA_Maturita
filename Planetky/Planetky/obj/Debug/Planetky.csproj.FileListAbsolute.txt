@@ -1,0 +1,10 @@
+C:\Users\Maty\source\repos\Planetky\Planetky\bin\Debug\Planetky.exe.config
+C:\Users\Maty\source\repos\Planetky\Planetky\bin\Debug\Planetky.exe
+C:\Users\Maty\source\repos\Planetky\Planetky\bin\Debug\Planetky.pdb
+C:\Users\Maty\source\repos\Planetky\Planetky\obj\Debug\Planetky.csproj.AssemblyReference.cache
+C:\Users\Maty\source\repos\Planetky\Planetky\obj\Debug\Planetky.Form1.resources
+C:\Users\Maty\source\repos\Planetky\Planetky\obj\Debug\Planetky.Properties.Resources.resources
+C:\Users\Maty\source\repos\Planetky\Planetky\obj\Debug\Planetky.csproj.GenerateResource.cache
+C:\Users\Maty\source\repos\Planetky\Planetky\obj\Debug\Planetky.csproj.CoreCompileInputs.cache
+C:\Users\Maty\source\repos\Planetky\Planetky\obj\Debug\Planetky.exe
+C:\Users\Maty\source\repos\Planetky\Planetky\obj\Debug\Planetky.pdb

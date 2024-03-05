@@ -1,0 +1,10 @@
+C:\Users\Maty\source\repos\Závody\Závody\bin\Debug\Závody.exe.config
+C:\Users\Maty\source\repos\Závody\Závody\bin\Debug\Závody.exe
+C:\Users\Maty\source\repos\Závody\Závody\bin\Debug\Závody.pdb
+C:\Users\Maty\source\repos\Závody\Závody\obj\Debug\Závody.csproj.AssemblyReference.cache
+C:\Users\Maty\source\repos\Závody\Závody\obj\Debug\Závody.Form1.resources
+C:\Users\Maty\source\repos\Závody\Závody\obj\Debug\Závody.Properties.Resources.resources
+C:\Users\Maty\source\repos\Závody\Závody\obj\Debug\Závody.csproj.GenerateResource.cache
+C:\Users\Maty\source\repos\Závody\Závody\obj\Debug\Závody.csproj.CoreCompileInputs.cache
+C:\Users\Maty\source\repos\Závody\Závody\obj\Debug\Závody.exe
+C:\Users\Maty\source\repos\Závody\Závody\obj\Debug\Závody.pdb
