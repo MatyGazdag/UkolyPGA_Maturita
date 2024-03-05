@@ -1,0 +1,10 @@
+C:\Users\Maty\source\repos\JakDěláZvířátko\JakDěláZvířátko\bin\Debug\JakDěláZvířátko.exe.config
+C:\Users\Maty\source\repos\JakDěláZvířátko\JakDěláZvířátko\bin\Debug\JakDěláZvířátko.exe
+C:\Users\Maty\source\repos\JakDěláZvířátko\JakDěláZvířátko\bin\Debug\JakDěláZvířátko.pdb
+C:\Users\Maty\source\repos\JakDěláZvířátko\JakDěláZvířátko\obj\Debug\JakDěláZvířátko.csproj.AssemblyReference.cache
+C:\Users\Maty\source\repos\JakDěláZvířátko\JakDěláZvířátko\obj\Debug\JakDěláZvířátko.Form1.resources
+C:\Users\Maty\source\repos\JakDěláZvířátko\JakDěláZvířátko\obj\Debug\JakDěláZvířátko.Properties.Resources.resources
+C:\Users\Maty\source\repos\JakDěláZvířátko\JakDěláZvířátko\obj\Debug\JakDěláZvířátko.csproj.GenerateResource.cache
+C:\Users\Maty\source\repos\JakDěláZvířátko\JakDěláZvířátko\obj\Debug\JakDěláZvířátko.csproj.CoreCompileInputs.cache
+C:\Users\Maty\source\repos\JakDěláZvířátko\JakDěláZvířátko\obj\Debug\JakDěláZvířátko.exe
+C:\Users\Maty\source\repos\JakDěláZvířátko\JakDěláZvířátko\obj\Debug\JakDěláZvířátko.pdb

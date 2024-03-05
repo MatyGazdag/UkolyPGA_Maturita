@@ -1,0 +1,10 @@
+C:\Users\Maty\source\repos\Kámen, nůžky, papír!\Kámen, nůžky, papír!\bin\Debug\Kámen, nůžky, papír!.exe.config
+C:\Users\Maty\source\repos\Kámen, nůžky, papír!\Kámen, nůžky, papír!\bin\Debug\Kámen, nůžky, papír!.exe
+C:\Users\Maty\source\repos\Kámen, nůžky, papír!\Kámen, nůžky, papír!\bin\Debug\Kámen, nůžky, papír!.pdb
+C:\Users\Maty\source\repos\Kámen, nůžky, papír!\Kámen, nůžky, papír!\obj\Debug\Kámen, nůžky, papír!.csproj.AssemblyReference.cache
+C:\Users\Maty\source\repos\Kámen, nůžky, papír!\Kámen, nůžky, papír!\obj\Debug\Kámen__nůžky__papír_.Properties.Resources.resources
+C:\Users\Maty\source\repos\Kámen, nůžky, papír!\Kámen, nůžky, papír!\obj\Debug\Kámen, nůžky, papír!.csproj.GenerateResource.cache
+C:\Users\Maty\source\repos\Kámen, nůžky, papír!\Kámen, nůžky, papír!\obj\Debug\Kámen, nůžky, papír!.csproj.CoreCompileInputs.cache
+C:\Users\Maty\source\repos\Kámen, nůžky, papír!\Kámen, nůžky, papír!\obj\Debug\Kámen, nůžky, papír!.exe
+C:\Users\Maty\source\repos\Kámen, nůžky, papír!\Kámen, nůžky, papír!\obj\Debug\Kámen, nůžky, papír!.pdb
+C:\Users\Maty\source\repos\Kámen, nůžky, papír!\Kámen, nůžky, papír!\obj\Debug\Kámen__nůžky__papír_.Hrac.resources
