@@ -47,9 +47,8 @@ namespace ConsoleApp6
             if(vratka < 0)
             {
                 Console.WriteLine("Připravuji nápoj: " + nazev[index]);
-                Console.WriteLine("Vracím mince: " + Math.Abs(vratka));
 
-                VypocetMinci();
+                VypocetMinci(Math.Abs(vratka));
             }else
             {
                 Console.WriteLine("Připravuji nápoj: " + nazev[index]);
@@ -84,9 +83,38 @@ namespace ConsoleApp6
             return dluh;
         }
 
-        static void VypocetMinci()
+        static void VypocetMinci(int celkovyPreplatek)
         {
+            Dictionary<int, int> dic = new Dictionary<int, int>();
+            do
+            {
+                for (int i = povoleneMince.Length - 1; i >= 0; i--)
+                {
+                    int povolenaMince = povoleneMince[i];
+                    if(celkovyPreplatek >= povolenaMince)
+                    {
+                        celkovyPreplatek -= povolenaMince;
+                        if(dic.ContainsKey(povolenaMince))
+                        {
+                            dic[povolenaMince]++;
+                            break;
+                        }else
+                        {
+                            dic.Add(povolenaMince, 1);
+                            break;
+                        }
+                    }
+                }
+            } while (celkovyPreplatek != 0);
 
+            Console.WriteLine("Vracím mince: ");
+            for(int i = povoleneMince.Length - 1; i >= 0; i--)
+            {
+                if (dic.ContainsKey(povoleneMince[i]))
+                {
+                    Console.WriteLine(" - " + povoleneMince[i] + ": " + dic[povoleneMince[i]] + "x");
+                }
+            }
         }
 
         static void VypisPovoleneMince()
