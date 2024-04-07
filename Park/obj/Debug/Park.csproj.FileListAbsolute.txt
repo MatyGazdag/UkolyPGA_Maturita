@@ -1,0 +1,10 @@
+C:\Users\Maty\source\repos\Park\bin\Debug\Park.exe.config
+C:\Users\Maty\source\repos\Park\bin\Debug\Park.exe
+C:\Users\Maty\source\repos\Park\bin\Debug\Park.pdb
+C:\Users\Maty\source\repos\Park\obj\Debug\Park.csproj.AssemblyReference.cache
+C:\Users\Maty\source\repos\Park\obj\Debug\Park.Form1.resources
+C:\Users\Maty\source\repos\Park\obj\Debug\Park.Properties.Resources.resources
+C:\Users\Maty\source\repos\Park\obj\Debug\Park.csproj.GenerateResource.cache
+C:\Users\Maty\source\repos\Park\obj\Debug\Park.csproj.CoreCompileInputs.cache
+C:\Users\Maty\source\repos\Park\obj\Debug\Park.exe
+C:\Users\Maty\source\repos\Park\obj\Debug\Park.pdb
